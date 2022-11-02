@@ -1,0 +1,9 @@
+#carouselExampleIndicators {
+  max-height: 350px;
+  overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+  margin: 30px;
+}
